@@ -56,4 +56,4 @@ function getMySalary() {
 }
 
 getMySalary();
-document.writeln(`Please, check the total salary result in console<br>`);
+document.writeln(`Please, check the total salary result in console!<br>`);
